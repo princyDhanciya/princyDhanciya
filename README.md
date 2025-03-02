@@ -25,6 +25,12 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a love 
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/Princy_Dhanciya/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/princydhanciya01/)  
 
+## 🏆 My HackerRank Badges
+
+[![30 Days of Code](https://hrcdn.net/fcore/assets/badges/30-days-of-code-a772ae4c2f.svg)](https://www.hackerrank.com/princydhanciya01)
+[![Java Badge](https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg)](https://www.hackerrank.com/princydhanciya01)
+[![Python Badge](https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg)](https://www.hackerrank.com/princydhanciya01)
+
 
 
 Thanks for visiting my profile! Let's build something amazing together! 😊
