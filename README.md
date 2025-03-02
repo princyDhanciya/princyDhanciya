@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a love 
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/princy-dhanciya/)
+- [LinkedIn](https://www.linkedin.com/in/princy-dhanciya-46a58a2b4)
 
 ### 🚀 Competitive Coding Profiles  
 
