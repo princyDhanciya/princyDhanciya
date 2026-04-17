@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a love 
 - 📫 How to reach me: princydhanciya078@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring new places and trying out different cuisines.
+- :) Portfolio: [My Portfolio](https://princydhanciya-portfolio.netlify.app)
 
 ## 🛠️ Languages and Tools
 
